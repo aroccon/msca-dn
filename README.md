@@ -1,6 +1,7 @@
 # MSCA-DN
 
 Doctoral Network proposal template
+Upated according to template 2024.
 
 There are three documents here:
 * PartB1.tex: Part B1
